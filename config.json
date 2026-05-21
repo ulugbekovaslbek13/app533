@@ -1,0 +1,6 @@
+{
+  "name": "AppConfig",
+  "version": "1.0.0",
+  "status": "production",
+  "debug": false
+}
